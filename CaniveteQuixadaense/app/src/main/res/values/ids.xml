@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="numero1EditText" type="id">1</item>
+    <item name="numero2EditText" type="id">2</item>
+    <item name="resultadoTextView" type="id">1</item>
+    <item name="contadorTextView" type="id">1</item>
+    <item name="incrementarButton" type="id">1</item>
+    <item name="startContadorButton" type="id" />
+    <item name="startCalculadoraButton" type="id" />
+    <item name="initialValueEditText" type="id" />
+</resources>
